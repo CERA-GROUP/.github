@@ -1,7 +1,7 @@
 
 <h1 align="center">
 Welcome to our Storm Surge and Flooding <br/>
-Visualization Group ??
+Visualization Group 👋
 </h1>
 </h2>
 <h2 align="center">
@@ -9,7 +9,7 @@ Visualization Group ??
 		<img src="https://i.imgur.com/zwjZCkt.png">  <br/> <a href="https://cera.coastalrisk.live/">cera.coastalrisk.live</a>
 </h2>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=42BBE6&background=42BBE600&multiline=true&width=335&height=100-&lines=VISUALIZE%3A+the+numbers.;ASSESS%3A+the+situation.;DECIDE%3A+the+next+move." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=42BBE6&background=42BBE600&multiline=true&width=340&height=100-&lines=VISUALIZE%3A+the+numbers.;ASSESS%3A+the+situation.;DECIDE%3A+the+next+move." alt="Typing SVG" /></a>
 </p>
 
 ## Group Overview
