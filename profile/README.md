@@ -5,24 +5,21 @@ Visualization Group 👋
 </h2>
 <h2 align="center">
 		Coastal Emergency Risks Assessment (CERA) <br/>
-		<img src="https://i.imgur.com/zwjZCkt.png" width="160" height="160">  <br/><a target="_blank" href="https://cera.coastalrisk.live/">cera.coastalrisk.live</a> 
+		<img src="https://i.imgur.com/zwjZCkt.png" width="130" height="130">  <br/><a target="_blank" href="https://cera.coastalrisk.live/">cera.coastalrisk.live</a> 
 </h2>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=42BBE6&background=42BBE600&multiline=true&width=340&height=100-&lines=VISUALIZE%3A+the+numbers.;ASSESS%3A+the+situation.;DECIDE%3A+the+next+move." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=42BBE6&background=42BBE600&multiline=true&width=340&height=85-&lines=VISUALIZE%3A+the+numbers.;ASSESS%3A+the+situation.;DECIDE%3A+the+next+move." alt="Typing SVG" /></a>
 </p>
 
 ## Group Overview
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px></picture>
 We are a group of diverse scientists, researchers, and developers dedicated to studying and understanding the potential impacts of storm surge and inland flooding caused by landfalling tropical cyclones. Our primary focus is on providing accurate and timely information to decision-makers and first responders to support their preparedness efforts and ultimately save lives and properties.
 
-## Objective
-
-The objective of our efforts is to simulate and visualize storm surge associated with tropical cyclones using advanced computer models and cutting-edge technology. By leveraging the power of supercomputers, we aim to provide detailed and up-to-date storm surge projections that can assist in forecasting and emergency planning.
-
 ## Key Components
 
 **Coastal Emergency Risks Assessment (CERA)**: We present our storm surge maps on an interactive web mapping tool known as CERA (<a target="_blank" href="https://cera.coastalrisk.live/">cera.coastalrisk.live</a>). This user-friendly platform allows emergency managers, academic researchers, and the public to easily access and visualize the potential impacts and timing of storm surge and flooding. By providing comprehensive information, CERA empowers users to make informed decisions and take proactive measures to mitigate the risks associated with landfalling tropical storms. 
-Our operations involve collaborating with the **NOAA Coastal Survey Development Lab (NOAA CSDL)** and the **ADCIRC Surge Guidance System (ASGS)**.
+
+Our operations involve collaborating with the NOAA Coastal Survey Development Lab (NOAA CSDL), academic partners, and the ADCIRC Surge Guidance System (ASGS).
 
 ## Contact Us
 
