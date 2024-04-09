@@ -5,7 +5,7 @@ Visualization Group 👋
 </h2>
 <h2 align="center">
 		Coastal Emergency Risks Assessment (CERA) <br/>
-		<img src="https://github.com/CERA-GROUP/Tutorials/blob/main/logo/cera_150x150.png" width="110" height="110">  <br/><a target="_blank" href="https://cera.coastalrisk.live/">cera.coastalrisk.live</a> 
+		<img src="https://github.com/CERA-GROUP/Tutorials/blob/main/logo/cera_150x150.png" width="100" height="100">  <br/><a target="_blank" href="https://cera.coastalrisk.live/">cera.coastalrisk.live</a> 
 </h2>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=42BBE6&background=42BBE600&multiline=true&width=340&height=85-&lines=VISUALIZE%3A+the+numbers.;ASSESS%3A+the+situation.;DECIDE%3A+the+next+move." alt="Typing SVG" /></a>
